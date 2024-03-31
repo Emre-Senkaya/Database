@@ -1,2 +1,3 @@
-# Utgangspunkt for del 2 av obligatorisk oppgave i DAT2000
-# Se oppgavetekst i canvas
+Her er del 1 og 2 av obligen.
+Gruppen har to medlemmer som er:
+Emre og Mergim
